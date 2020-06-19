@@ -335,7 +335,7 @@ Then, it sends a `peer-status` message, with a copy of the latest `this.state` o
 
 ## Updating the UI when the internal state of the client updates
 
-Wwe have to write some markup allow the UI to update when the state changes.
+We have to write some markup allow the UI to update when the state changes.
 
 We'll start off with a HTML document and some script tags
 
