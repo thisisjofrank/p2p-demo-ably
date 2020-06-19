@@ -1,4 +1,4 @@
-# Static Web app
+# Peer to Peer Static Web App built with Vue.js
 
 ## Explanation:
 
