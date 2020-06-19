@@ -135,7 +135,7 @@ We're also making sure that if the message is **for** a specific peer - set usin
 
 We will pass this wrapper to the instances of our `P2PClient` and `P2PServer` classes, to make sure they publish messages in a predictable way.
 
-# Creating our Vue app
+## Creating our Vue app
 
 The application is going to be composed of a `Vue` UI, and two main classes, `P2PClient` and `P2PServer`.
 
